@@ -1,7 +1,3 @@
-Here's the README file with the mention of Mistral AI in the description:
-
----
-
 # Financial Chatbot
 
 This project is a financial chatbot built with Streamlit, leveraging various machine learning models, APIs, and other tools to provide users with financial insights and predictions. The chatbot utilizes Mistral AI for natural language processing and generating context-aware responses.
