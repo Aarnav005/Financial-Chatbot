@@ -17,7 +17,7 @@ This project is a financial chatbot built with Streamlit, leveraging various mac
 
 - *finbot.py*: The main script that runs the Streamlit app, handles user interactions, processes data, and generates responses.
 - *StockPredictor.py*: Adds the feature of stock price prediction and helps us in displaying graphs.
-- *TTS_STT*: Helps in converting text to speech and speech to text.
+- *TTS_STT.py*: Helps in converting text to speech and speech to text.
 - *.gitignore*: Ensures that sensitive files like environment variables, temporary files, and other non-essential files are not tracked by Git.
 
 ## Installation
