@@ -21,15 +21,15 @@ This project is a financial chatbot built with Streamlit, leveraging various mac
 ## Installation
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/Aarnav005/Financial-Chatbot.git
    cd Financial-Chatbot
-   
+   ```
 
 2. Install the required dependencies:
-   bash
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 3. Set up environment variables:
    - Create a .env file in the root directory.
@@ -39,9 +39,9 @@ This project is a financial chatbot built with Streamlit, leveraging various mac
      
 
 4. Run the Streamlit app:
-   bash
+   ```bash
    streamlit run finbot.py
-   
+   ```
 
 ## Usage
 
